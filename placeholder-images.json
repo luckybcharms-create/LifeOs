@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dashboard-hero",
+      "description": "Abstract futuristic dashboard background",
+      "imageUrl": "https://picsum.photos/seed/lifeos-dash/1200/400",
+      "imageHint": "abstract futuristic"
+    },
+    {
+      "id": "car-profile",
+      "description": "Modern vehicle in dark setting",
+      "imageUrl": "https://picsum.photos/seed/lifeos-car/600/400",
+      "imageHint": "modern car"
+    }
+  ]
+}
